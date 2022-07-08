@@ -2,8 +2,10 @@
 
 - 🔭 I’m currently working on Residência de Software from Serratec for Full-Stack Developer
 - 🌱 I’m currently learning React Js, React Native, TypeScript & JAVA.
-- ⚡ Fun fact: I'm almost a drummer 🥁
- 
+- ⚡ Fun fact: 
+    - I'm also a mechanical engineer
+    - I like to play airsoft
+    - I'm almost a drummer 🥁
 
 ##
 <h3 align="left">Connect with me:</h3>
