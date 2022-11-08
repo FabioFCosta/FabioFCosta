@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Fabio Freitas </h1>
 
 - 🔭 I’m currently working on Residência de Software from Serratec for Full-Stack Developer
-- 🌱 I’m currently learning React Js, React Native, TypeScript & JAVA.
+- 🌱 I’m currently learning React Js, TypeScript, JAVA & ServiceNow.
 - ⚡ Fun fact: 
     - I'm also a mechanical engineer
     - I like to play airsoft
